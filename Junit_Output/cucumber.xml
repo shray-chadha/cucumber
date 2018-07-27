@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="3" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.00191">
+<testcase classname="Learning the Tagging concept in Cucumber" name="This is first scenario of tagged hooks" time="0.000699">
+<system-out/>
+<failure message="The scenario has no steps"/>
+</testcase>
+<testcase classname="Learning the Tagging concept in Cucumber" name="This is second scenario of tagged hooks" time="0.000629">
+<system-out/>
+<failure message="The scenario has no steps"/>
+</testcase>
+<testcase classname="Learning the Tagging concept in Cucumber" name="This is third scenario of tagged hooks" time="0.000582">
+<system-out/>
+<failure message="The scenario has no steps"/>
+</testcase>
+</testsuite>
